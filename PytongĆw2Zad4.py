@@ -1,0 +1,6 @@
+fraza = input("Wpisz frazę lub słowo: ")
+ilosc_laczna = len(fraza)
+ilosc_spacji = fraza.count(' ')
+ilosc_slow = len(fraza.split())
+ile_czego = dict(map(lambda x: (x,fraza.count(x)), fraza))
+print("Ilość znaków: " + str(ilosc_laczna) + ", ilość spacji: " + str(ilosc_spacji) + ", a ilość słów to " + str(ilosc_slow) + ", użyto: " + str(ile_czego))
