@@ -7,7 +7,9 @@ while True:
     def game_random(list):
         won = False
         draw = False
-        player_choice = input("Wybierz K dla Kamień, P dla Papier, lub N dla Nożyce")
+        player_choice = input("Wybierz K dla Kamień, P dla Papier, lub N dla Nożyce: ")
+        if player_choice != choices:
+            print("Niewłaściwy znak")
         if player_choice == "K" and randomised == "N":
             won = True
             draw = False
@@ -38,20 +40,21 @@ while True:
         if won == True and draw == False:
             player_score =+ 1
             print("wygrana")
-            print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
-        if won == False and draw == True:
+            #print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
+        elif won == False and draw == True:
             print("remis")
-            print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
-        if won == False and draw == False:
+            #print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
+        elif won == False and draw == False:
             computer_score =+ 1
             print("przegrana")
-            print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
+            #print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
 
     game_random(choices)
     print(game_random)
+    print("Wynik: " + str(player_score) + " do: " + str(computer_score))
     print("grać dalej?")
-    if input("T dla tak, N dla nie") == "T":
+    if input("T dla tak, N dla nie: ") == "T":
         game_random(choices)
         print(game_random)
-    if input("T dla tak, N dla nie") == "N":
-        print("OK")
+        if input("T dla tak, N dla nie: ") == "N":
+            print("OK")
