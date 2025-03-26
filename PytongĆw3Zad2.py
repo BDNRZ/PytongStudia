@@ -1,60 +1,58 @@
 import random
 player_score = 0
 computer_score = 0
-while True:
+def game_random():
+    global player_score, computer_score
+    won = False
+    draw = False
     choices = ["K","N","P"]
     randomised = random.choice(choices)
-    def game_random(list):
-        won = False
-        draw = False
-        player_choice = input("Wybierz K dla Kamień, P dla Papier, lub N dla Nożyce: ")
-        if player_choice != choices:
-            print("Niewłaściwy znak")
-        if player_choice == "K" and randomised == "N":
+    player_choice = input("Wybierz K dla Kamień, P dla Papier, lub N dla Nożyce: ")
+    if player_choice not in choices:
+        print("Błędny wybór")
+        return None
+        
+    if player_choice == "K" and randomised == "N":
             won = True
             draw = False
-        elif player_choice == "K" and randomised == "P":
+    elif player_choice == "K" and randomised == "P":
             won = False
             draw = True
-        elif player_choice == "K" and randomised == "K":
+    elif player_choice == "K" and randomised == "K":
             won = False
             draw = True
-        elif player_choice == "P" and randomised == "N":
+    elif player_choice == "P" and randomised == "N":
             won = False
             draw = False
-        elif player_choice == "P" and randomised == "P":
+    elif player_choice == "P" and randomised == "P":
             won = False
             draw = True
-        elif player_choice == "P" and randomised == "K":
+    elif player_choice == "P" and randomised == "K":
             won = True
             draw = False
-        elif player_choice == "N" and randomised == "N":
+    elif player_choice == "N" and randomised == "N":
             won = False
             draw = True
-        elif player_choice == "N" and randomised == "P":
+    elif player_choice == "N" and randomised == "P":
             won = True
             draw = False
-        elif player_choice == "N" and randomised == "K":
+    elif player_choice == "N" and randomised == "K":
             won = False
             draw = False
-        if won == True and draw == False:
-            player_score =+ 1
+    if won == True and draw == False:
+            player_score += 1
             print("wygrana")
-            #print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
-        elif won == False and draw == True:
+    elif won == False and draw == True:
             print("remis")
-            #print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
-        elif won == False and draw == False:
-            computer_score =+ 1
+    elif won == False and draw == False:
+            computer_score += 1
             print("przegrana")
-            #print("wynik gracza: " + str(player_score) + "wynik komutera: " + str(computer_score))
 
-    game_random(choices)
-    print(game_random)
+while True:
+    game_random()
     print("Wynik: " + str(player_score) + " do: " + str(computer_score))
     print("grać dalej?")
-    if input("T dla tak, N dla nie: ") == "T":
-        game_random(choices)
-        print(game_random)
-        if input("T dla tak, N dla nie: ") == "N":
-            print("OK")
+    cont =  input("T dla tak, N dla nie: ")
+    if cont != "T":
+        print("Koniec gry")
+        break
