@@ -1,0 +1,122 @@
+ID_Transakcji,Data_Transakcji,ID_Klienta,Produkt,Kategoria,Ilosc,Cena_Jednostkowa,Miasto
+T001,2025-01-05 10:15:30,K101,Laptop Dell XPS 15,Laptopy,1,7500 PLN,Warszawa
+T002,2025-01-07 14:22:11,K102,Smartfon Samsung Galaxy S25,Smartfony,1,4800.00,Kraków
+T003,2025-01-10 09:05:00,K103,Mysz Logitech MX Master 4,Akcesoria,1,,Wrocław
+T004,2025-01-11 18:30:55,K101,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Warszawa
+T005,2025-01-15 11:55:20,K104, Telewizor LG OLED 55 cali,Telewizory,1,6200,Poznań
+T006,2025-01-18 20:10:00,K105,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Gdańsk
+T007,2025-01-21 12:00:45,K102,Ładowarka USB-C 65W,Akcesoria,-1,120,Kraków
+T008,2025-01-25 16:45:10,K106,Laptop Apple MacBook Air M3,Laptopy,1,6800,Warszawa
+T009,2025-02-01 08:50:00,K107,Smartfon Google Pixel 9,Smartfony,1,4100,Wrocław
+T010,2025-02-05 13:13:13,K103,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Wrocław
+T011,2025-02-10 17:00:30,K108,Smartfon Samsung Galaxy S25,Smartfony,1,4800,gdansk
+T012,2025-02-14 10:00:00,K101,Dysk SSD Samsung 1TB,Akcesoria,1,550,Warszawa
+T013,2025-02-18 19:25:05,K109,Laptop Dell XPS 15,Laptopy,1,7500,Kraków
+T014,2025-02-22 09:33:18,K110,Mysz Logitech MX Master 4,Akcesoria,1,450,Poznań
+T015,2025-02-28 15:15:50,K105,Telewizor LG OLED 55 cali,Telewizory,1,6200,Gdańsk
+T016,2025-03-03 11:40:00,K102,Smartfon Samsung Galaxy S25,smartfony,1,4800,Kraków
+T017,2025-03-07 14:05:22,K111,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Warszawa
+T018,2025-03-12 08:10:00,K106,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Warszawa
+T019,2025-03-18 16:55:30,K107,Laptop Apple MacBook Air M3,Laptopy ,1,6800,Wrocław
+T020,2025-03-25 12:20:15,K104,Smartfon Google Pixel 9,Smartfony,1,4100,Poznań
+T021,2025-03-28 10:00:40,K101,Mysz Logitech MX Master 4,Akcesoria,1,450,Warszawa
+T022,2025-03-30 18:00:00,K102,Ładowarka USB-C 65W,Akcesoria,1,120,Kraków
+T023,2025-01-06 11:05:15,K112,Smartfon Google Pixel 9,Smartfony,1,4100,Gdańsk
+"T024,2025-01-08 15:30:00,K113,Laptop Apple MacBook Air M3,Laptopy,1,""6800 PLN"",Poznań"
+T025,2025-01-12 09:55:10,K105,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Gdańsk
+T026,2025-01-14 19:00:00,K114,Telewizor LG OLED 55 cali,Telewizory,1,6200,Warszawa
+T027,2025-01-17 12:45:30,K115,Klawiatura Mechaniczna Apex,Akcesoria,2,600,Kraków
+T028,2025-01-20 10:10:10,K116,Laptop Dell XPS 15,Laptopy,1,7500,Wrocław
+T029,2025-01-23 14:00:00,K101,Dysk SSD Samsung 1TB,Akcesoria,1,550,Warszawa
+T030,2025-01-27 17:30:45,K117,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Poznań
+T031,2025-01-30 09:15:00,K118,Mysz Logitech MX Master 4,Akcesoria,1,450,Gdańsk
+T032,2025-02-02 11:22:33,K106,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Warszawa
+T033,2025-02-06 16:00:00,K119,Laptop Dell XPS 15,Laptopy,1,7500,Wrocław
+T034,2025-02-08 10:40:10,K120,Smartfon Google Pixel 9,Smartfony,1,4100,Kraków
+T035,,K102,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Kraków
+T036,2025-02-15 18:18:18,K121,Telewizor LG OLED 55 cali,Telewizory,1,6200,Poznań
+T037,2025-02-19 09:05:55,K108,Ładowarka USB-C 65W,Akcesoria,1,120,Gdańsk
+T038,2025-02-21 13:33:00,K122,Laptop Apple MacBook Air M3,Laptopy,1,6800,Warszawa
+T039,2025-02-25 15:00:00,K103,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Wrocław
+T040,2025-02-27 10:10:10,K123,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Gdańsk
+T041,2025-03-01 14:25:00,K110,Dysk SSD Samsung 1TB,Akcesoria,2,550,Poznań
+T042,2025-03-04 11:55:11,K124,Mysz Logitech MX Master 4,Akcesoria,1,450,Warszawa
+T043,2025-03-06 19:00:00,K105,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Gdańsk
+T044,2025-03-08 09:30:45,K125,Laptop Dell XPS 15,Laptopy,1,7500,Kraków
+T045,2025-03-10 13:15:00,K111,Smartfon Google Pixel 9,Smartfony,1,4100,Warszawa
+T046,2025-03-13 17:40:30,K126,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Wrocław
+T047,2025-03-16 10:00:00,K127,Telewizor LG OLED 55 cali,Telewizory,1,6200,Poznań
+T048,2025-03-19 15:20:10,K107,Ładowarka USB-C 65W,Akcesoria,3,120,Wrocław
+T049,2025-03-21 11:11:11,K128,Laptop Apple MacBook Air M3,Laptopy,1,6800,Gdańsk
+T050,2025-03-24 08:55:00,K101,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Warszawa
+T051,2025-03-27 14:30:20,K129,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Kraków
+T052,2025-03-29 19:10:00,K130,Dysk SSD Samsung 1TB,Akcesoria,1,550,Poznań
+T053,2025-01-09 16:00:00,K131,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Poznań
+T054,2025-01-13 10:25:30,K132,Laptop Dell XPS 15,Laptopy,1,7500,Gdańsk
+T055,2025-01-16 14:40:15,K133,Smartfon Google Pixel 9,telewizory,1,4100,Warszawa
+T056,2025-01-19 11:10:05,K102,Mysz Logitech MX Master 4,Akcesoria,1,450,Kraków
+T057,2025-01-22 18:00:00,K134,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Poznań
+T058,2025-01-24 09:20:30,K135,Telewizor LG OLED 55 cali,Telewizory,1,6200, WROCŁAW 
+T059,2025-01-28 13:00:00,K111,Ładowarka USB-C 65W,Akcesoria,1,120,Warszawa
+T060,2025-01-31 15:55:45,K136,Laptop Apple MacBook Air M3,Laptopy,1,6800,Kraków
+T061,2025-02-03 10:05:10,K104,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Poznań
+T062,2025-02-07 14:44:00,K137,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Wrocław
+T063,2025-02-09 19:15:00,K101,Dysk SSD Samsung 1TB,Akcesoria,1,550,Warszawa
+T064,2025-02-12 11:35:20,K138,Mysz Logitech MX Master 4,Akcesoria,,450,Gdańsk
+T065,2025-02-16 16:10:00,K115,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Kraków
+T066,2025-02-20 12:00:00,K139,Laptop Dell XPS 15,Laptopy,1,7500,Poznań
+T067,2025-02-23 08:40:30,K140,Smartfon Google Pixel 9,Smartfony,1,4100,Warszawa
+T068,2025-02-26 17:20:00,K103,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Wrocław
+T069,2025-03-02 10:50:50,K141,Telewizor LG OLED 55 cali,Telewizory,1,6200,Gdańsk
+T070,2025-03-05 15:00:00,K106,Ładowarka USB-C 65W,Akcesoria,2,120,Warszawa
+T071,2025-03-09 11:10:15,K142,Laptop Apple MacBook Air M3,Laptopy,1,6800,Kraków
+T072,2025-03-11 16:30:00,K120,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Kraków
+T073,2025-03-14 12:45:30,K143,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Poznań
+T074,2025-03-17 09:00:00,K105,Dysk SSD Samsung 1TB,Akcesoria,1,550,Gdańsk
+T075,2025-03-20 13:30:40,K144,Mysz Logitech MX Master 4,Akcesoria,1,450,Wrocław
+T076,2025-03-22 18:20:00,K145,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,warszawa
+T077,2025-03-26 10:10:10,K102,Laptop Dell XPS 15,Laptopy,1,7500,Kraków
+T078,2025-03-31 09:00:00,K146,Smartfon Google Pixel 9,Smartfony,99,4100,Poznań
+T079,2025-01-14 08:15:00,K107,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Wrocław
+T080,2025-01-26 19:30:00,K110,Telewizor LG OLED 55 cali,Telewizory,1,6200,Poznań
+T081,2025-02-04 15:10:20,K122,Ładowarka USB-C 65W,Akcesoria,1,120,Warszawa
+T082,2025-02-13 12:05:00,K113,Laptop Apple MacBook Air M3,Laptopy,1,6800,Poznań
+T083,2025-02-17 14:55:10,K108,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Gdańsk
+T084,2025-02-24 11:00:00,K131,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Poznań
+T085,2025-03-07 09:40:00,K117,Dysk SSD Samsung 1TB,Akcesoria,1,550,Poznań
+T086,2025-03-15 18:45:00,K135,Mysz Logitech MX Master 4,Akcesoria,1,450,Wrocław
+T087,2025-03-23 13:05:15,K119,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Wrocław
+T088,2025-03-30 10:30:00,,Laptop Dell XPS 15,Laptopy,1,7500,Warszawa
+T089,2025-01-29 12:12:12,K148,Smartfon Google Pixel 9,Smartfony,1,4100,Gdańsk
+T090,2025-02-08 17:00:00,K101,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Warszawa
+T091,2025-02-15 10:10:10,K149,Telewizor LG OLED 55 cali,Telewizory,1,6200,KRAKÓW
+T092,2025-02-22 14:20:30,K150,Ładowarka USB-C 65W,Akcesoria,3,120,Gdańsk
+T093,2025-03-01 11:00:00,K103,Laptop Apple MacBook Air M3,Laptopy,1,6800,Wrocław
+T094,2025-03-08 15:35:00,K151,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Poznań
+T095,2025-03-16 19:50:45,K112,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Gdańsk
+T096,2025-03-24 10:40:00,K152,Dysk SSD Samsung 1TB,Akcesoria,2,550,Kraków
+T097,2025-03-28 16:00:00,K124,Mysz Logitech MX Master 4,Akcesoria,1,450,Warszawa
+T098,2025-01-04 09:00:00,K153,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Wrocław
+T099,2025-01-17 17:17:17,K109,Laptop Dell XPS 15,Laptopy,1,7500,Kraków
+T100,2025-01-23 12:30:00,K154,Smartfon Google Pixel 9,Smartfony,1,4100,Poznań
+T101,2025-02-05 10:00:00,K114,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Warszawa
+T102,2025-02-19 14:14:14,K155,Telewizor LG OLED 55 cali,Telewizory,1,6200,Gdańsk
+T103,2025-03-06 08:00:00,K118,Ładowarka USB-C 65W,Akcesoria,1,120,Gdańsk
+T104,2025-03-20 11:50:00,K121,Laptop Apple MacBook Air M3,Laptopy,1,6800,Poznań
+T105,2025-01-31 19:00:00,K133,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Warszawa
+"T106,2025-02-11 13:13:13,K102,Smartfon Samsung Galaxy S25,Smartfony,2,""4 800"",Kraków"
+T107,2025-03-13 09:09:09,K138,Dysk SSD Samsung 1TB,Akcesoria,1,550,Gdańsk
+T108,2025-01-27 15:00:00,K142,Mysz Logitech MX Master 4,Akcesoria,1,450,Kraków
+T109,2025-02-09 12:00:00,K125,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Kraków
+T110,2025-03-29 14:45:00,K156,Laptop Dell XPS 15,Laptopy,1,7500,Wrocław
+T111,2025-01-20 10:00:00,K157,Smartfon Google Pixel 9,Smartfony,1,4100,Warszawa
+T112,2025-02-28 11:11:11,K134,Monitor Dell 27 cali 4K,Akcesoria,1,1800,Poznań
+T113,2025-03-04 17:30:00,K146,Telewizor LG OLED 55 cali,Telewizory,1,6200,Poznań
+T114,2025-01-10 18:05:00,K101,Ładowarka USB-C 65W,Akcesoria,2,120,Warszawa
+T115,2025-02-16 09:25:00,K158,Laptop Apple MacBook Air M3,Laptopy,1,6800,Gdańsk
+T116,2025-03-22 14:55:00,K104,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Poznań
+T117,2025-01-25 10:15:30,K159,Smartfon Samsung Galaxy S25,Smartfony,1,4800,Wrocław
+T118,2025-02-07 16:22:11,K160,Dysk SSD Samsung 1TB,Akcesoria,1,550,Warszawa
+T119,2025-03-10 11:05:00,K161,Mysz Logitech MX Master 4,Akcesoria,1,450,Kraków
+T120,2025-01-11 10:30:55,K162,Słuchawki Sony WH-1000XM6,Akcesoria,1,1500,Poznań
+T018,2025-03-12 08:10:00,K106,Klawiatura Mechaniczna Apex,Akcesoria,1,600,Warszawa
